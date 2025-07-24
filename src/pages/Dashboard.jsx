@@ -190,7 +190,7 @@ export default function Dashboard() {
             </div>
           </div>
 
-          <div className="border border-gray-100 rounded-xl p-4 bg-gray-50">
+          <div className="border border-gray-100 rounded-xl p-0 bg-gray-50">
             <HealthAssistant />
           </div>
         </section>
